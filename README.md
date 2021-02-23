@@ -1,2 +1,1 @@
-# MathPuzzles
-Math Puzzles
+# Math Puzzles
