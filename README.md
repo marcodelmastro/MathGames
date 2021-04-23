@@ -1,1 +1,1 @@
-# Math Puzzles
+# Math Games, Puzzles and Experiments
